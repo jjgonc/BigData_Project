@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-# :pushpin: Análise Inteligente em Sistema de Big Data - Trabalho Prático 22/23
+# :pushpin: Análise Inteligente em Sistemas de Big Data - Trabalho Prático 22/23
 ***About*** : Análise do impacto da inflação com o crescimento populacional nos Estados Unidos da América
 
 
